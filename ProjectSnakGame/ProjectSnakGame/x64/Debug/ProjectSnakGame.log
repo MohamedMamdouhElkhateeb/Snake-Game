@@ -1,0 +1,15 @@
+﻿  ProjectSnakGame.cpp
+C:\Users\Mohamed Mamdoh\Desktop\ProjectSnakGame\ProjectSnakGame\ProjectSnakGame.cpp(31,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mohamed Mamdoh\Desktop\ProjectSnakGame\ProjectSnakGame\ProjectSnakGame.cpp(42,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Mohamed Mamdoh\Desktop\ProjectSnakGame\ProjectSnakGame\ProjectSnakGame.cpp(42,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Mohamed Mamdoh\Desktop\ProjectSnakGame\ProjectSnakGame\ProjectSnakGame.cpp(42,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Mohamed Mamdoh\Desktop\ProjectSnakGame\ProjectSnakGame\ProjectSnakGame.cpp(42,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Mohamed Mamdoh\Desktop\ProjectSnakGame\ProjectSnakGame\ProjectSnakGame.cpp(125,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Mohamed Mamdoh\Desktop\ProjectSnakGame\ProjectSnakGame\ProjectSnakGame.cpp(125,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Mohamed Mamdoh\Desktop\ProjectSnakGame\ProjectSnakGame\ProjectSnakGame.cpp(126,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Mohamed Mamdoh\Desktop\ProjectSnakGame\ProjectSnakGame\ProjectSnakGame.cpp(126,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Mohamed Mamdoh\Desktop\ProjectSnakGame\ProjectSnakGame\ProjectSnakGame.cpp(127,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Mohamed Mamdoh\Desktop\ProjectSnakGame\ProjectSnakGame\ProjectSnakGame.cpp(127,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Mohamed Mamdoh\Desktop\ProjectSnakGame\ProjectSnakGame\ProjectSnakGame.cpp(128,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Mohamed Mamdoh\Desktop\ProjectSnakGame\ProjectSnakGame\ProjectSnakGame.cpp(128,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  ProjectSnakGame.vcxproj -> C:\Users\Mohamed Mamdoh\Desktop\ProjectSnakGame\x64\Debug\ProjectSnakGame.exe
